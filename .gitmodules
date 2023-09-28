@@ -1,0 +1,9 @@
+[submodule "Galaxy-M-Fold-8"]
+	path = Galaxy-M-Fold-8
+	url = https://github.com/Anuj3366/Galaxy-Z-Fold-6
+[submodule "E-Commerce"]
+	path = E-Commerce
+	url = https://github.com/Anuj3366/E-Commerce-Website
+[submodule "Joke Generator"]
+	path = Joke Generator
+	url = https://github.com/Anuj3366/Joke-Generator
